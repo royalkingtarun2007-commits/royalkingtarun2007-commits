@@ -1,8 +1,8 @@
 #  Hi, I'm Tarun!
 
  I'm a beginner Python programmer learning to build real-world projects.  
- I enjoy working with Python, Git, and VS Code — and I’m improving daily!
-
+ I enjoy working with Python,Git, and VS Code — and I’m improving daily!
+ I'am a Web Developer and I have a good grip on Html,CSS and Java Script  
 ---
 
 ##  Tech Stack & Tools
@@ -26,7 +26,8 @@
 - I’m from India 🇮🇳  
 - Currently learning **Python and Git**  
 - Next: Building small automation tools  
-- Fun fact: I enjoy debugging more than coding sometimes  
+- Python,Html,CSS and Java Script are languages that I have learned
+- Adding Java to my path 
 
 ---
 
