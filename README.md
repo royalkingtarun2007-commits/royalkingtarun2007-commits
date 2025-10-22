@@ -18,7 +18,7 @@
 
 - [Calculator](https://github.com/royalkingtarun2007-commits/first-git-project)
 - [Number Guessing Game](https://github.com/royalkingtarun2007-commits/Number_Guessing_Game)
-- [To-Do List](https://github.com/royalkingtarun2007-commits/ToDoList)
+- [To-Do List](https://github.com/royalkingtarun2007-commits/To_Do_List/blob/main/index.html)
 
 ---
 
