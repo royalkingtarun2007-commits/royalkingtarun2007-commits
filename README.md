@@ -1,8 +1,9 @@
 #  Hi, I'm Tarun!
 
- I'm a beginner Python programmer learning to build real-world projects.  
+ I'm a Intermediate Python programmer learning to build real-world projects.  
  I enjoy working with Python,Git, and VS Code — and I’m improving daily!
  I'am a Web Developer and I have a good grip on Html,CSS and Java Script  
+ I have started learning Java recently and doing well 
 ---
 
 ##  Tech Stack & Tools
@@ -13,18 +14,18 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
-
 ##  Projects
 
 - [Calculator](https://github.com/royalkingtarun2007-commits/first-git-project)
 - [Number Guessing Game](https://github.com/royalkingtarun2007-commits/Number_Guessing_Game)
+- [To-Do List](https://github.com/royalkingtarun2007-commits/ToDoList)
 
 ---
 
 ## About Me
 
 - I’m from India 🇮🇳  
-- Currently learning **Python and Git**  
+- Currently learning **python and Git**  
 - Next: Building small automation tools  
 - Python,Html,CSS and Java Script are languages that I have learned
 - Adding Java to my path 
