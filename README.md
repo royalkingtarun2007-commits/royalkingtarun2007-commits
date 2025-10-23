@@ -7,7 +7,7 @@
 
 **Intermediate Python Programmer | Web Developer | Tech Enthusiast**  
 I’m passionate about building real-world projects and continuously improving my coding skills.  
-Currently exploring **Python**, **Web Development**, and learning **Java** ☕  
+Currently exploring **Python**, **Web Development**, and learning **Java** 
 
 ---
 
@@ -45,20 +45,7 @@ Currently exploring **Python**, **Web Development**, and learning **Java** ☕
 -  Exploring **Java** for backend and application development  
 -  Goal: Build automation tools and mini web projects  
 
----
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=royalkingtarun2007-commits&show_icons=true&theme=radical" alt="Tarun's GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=royalkingtarun2007-commits&theme=radical" alt="GitHub Streak" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royalkingtarun2007-commits&layout=compact&theme=radical" alt="Top Languages" height="165" />
-</p>
-
----
 
 ## Connect With Me
 
